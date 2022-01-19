@@ -28,4 +28,21 @@ function conversation(){
     console.log("Goodbye");
 }
 
-conversation();
+
+
+
+
+function conversation2(name){
+    sayHi(name)
+    console.log("Hi" + name + "!")
+}
+
+conversation2("Safina");
+
+
+function futureage(age){
+    const futureage = age + 5
+return "You will be" + futureage + " in 5 years!"
+}
+
+console.log(age(21));
