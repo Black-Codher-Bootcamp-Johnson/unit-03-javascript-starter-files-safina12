@@ -4,7 +4,7 @@ const animals = ['cat', 'dog', 'wolf', 'lion', 'eagle', 'zebra'];
 
 console.log(animals);
 
-animals.pop('zebra');
+animals.pop('');
 
 console.log(animals);
 
