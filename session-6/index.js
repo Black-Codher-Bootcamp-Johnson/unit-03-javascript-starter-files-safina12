@@ -13,7 +13,7 @@ while (counter <= 10) {
 
 
 
-console.log("============")
+console.log("====================")
 
 for (let counter2 = 1; counter2 <= 10; counter2 ++) { 
     const randomNumber = Math.round(Math.random() * 10); 
