@@ -21,12 +21,26 @@ console.log(animals);
 
 // ****************************************************TASK 2****************************************************
 
+const names = ['Nicki', 'Joan', 'Toni', 'Lynn', 'Maya', 'Carrie', 'Samantha', 'Charlotte', 'Miranda']
+
+console.log(names);
+
+names.sort();
+
+console.log(names);
+
+names.sort().reverse();
+
+console.log(names);
 
 
+const numbers = [5, 325, 67, 100000, 150]
 
+console.log(numbers);
 
+numbers.sort();
 
-
+console.log(numbers);
 
 
 
